@@ -1,0 +1,49 @@
+Learn@Home project
+Notes - Project launch meeting
+LOGO IMAGE
+Project display
+Learn 
+ Home is an association that connects children with learning difficulties and volunteers online. It aims to allow any student, wherever he is, to access distance learning support.
+
+Each student registered on the site has a volunteer tutor assigned to him. The volunteer aims to support the student in his learning, through short meetings scheduled each week. During these appointments, the volunteer helps the student complete their homework and get organized.
+
+To facilitate interactions and communication, Learn 
+ Home wishes to create a new website, which must consist of the following pages:
+1.A login page.
+2.A Dashboard page.
+3.A Chat Interface page.
+4.A calendar page.
+5.A task management page.
+
+Details page by page
+1.The login page
+The login page should allow a student or volunteer to login. All other pages are only accessible when logged into an account. This page must include:
+-a forgotten password recovery system;
+-a link to an account creation page.
+Here is an outline of the customer's expectations, in terms of the interface:
+CUSTOMER SKETCH IMAGE
+
+2.The dashboard
+This page will serve as the main page and should therefore include a summary of all recent and important information from the other pages: chat, calendar, task management.
+The page will display:
+-a task summary (to-dolist) from the task management page (5.);
+-the list of upcoming events, taken from the Calendar page (4.);
+-a counter of unread messages.
+
+3.The chat interface
+Learn 
+ Home's chat interface is a classic chat page, incorporating an instant chat system between students and volunteers. It must also allow access to the conversation history, and to add or delete a contact.
+
+Below is a sketch of Learn 
+ Home's expectations for this page. Other elements should be added:
+-the sender's profile picture, next to each message;
+an indicator making it possible to view whether a message has been read or not;
+-the time stamp of the messages.
+IMAGE OF THE SKETCH OF THE CAT
+
+4.The calendar page The Learn 
+ Home calendar page corresponds to a classic calendar page, on which the various events and appointments of the user are displayed.
+
+5.The task management page The interface of this page must allow you to create tasks for yourself or for another user.
+● Students can only create tasks for themselves.
+● The volunteer can create tasks for the students they follow.
