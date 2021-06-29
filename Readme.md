@@ -1,7 +1,6 @@
 <div align="center">
 
 #  Design of a Python application
-##  adapted to a client's need
 
 </div>
 
@@ -11,14 +10,14 @@
 
 <div align="center">
 
-___Design of a Python application___
+___Design of a Python application adapted to a client's need___
 by [py-Thony](https://github.com/py-Thony "Click to access my GitHub profile and discover my other projects.")
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 ___-Define the functional requirements of the application based on customer needs.___
 
