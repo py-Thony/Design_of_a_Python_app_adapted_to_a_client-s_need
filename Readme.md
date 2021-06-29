@@ -1,6 +1,7 @@
 <div align="center">
 
-#  Design of a Python application adapted to a client's need
+#  Design of a Python application
+#  adapted to a client's need
 
 </div>
 
@@ -20,7 +21,9 @@ by [py-Thony](https://github.com/py-Thony "Click to access my GitHub profile and
 <div align="center">
 
 ___-Define the functional requirements of the application based on customer needs.
+
 -Manage a project with agile methodologies.
+
 -Prototype a technical solution for a client with domain models and mockups.___
 </div>
 
