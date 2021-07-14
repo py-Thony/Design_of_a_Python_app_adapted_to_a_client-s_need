@@ -44,13 +44,13 @@ git clone https://github.com/py-Thony/Design_of_a_Python_app_adapted_to_a_client
   - prevents interference from unwanted libraries,
   - protects against version incompatibility bugs.
 
-Official python documentation:
+**Official python documentation:**
     - [Python3 venv docs](https://docs.python.org/fr/3/library/venv.html "Documentation for creating and using a virtual environment to work free from version conflicts.")
 ```bash
 python3 -m venv /path/to/new/virtual/environment
 ```
 
-VScode specific documentation:
+**VScode specific documentation:**
     - [VScode venv docs](https://code.visualstudio.com/docs/python/environments "Documentation for creating and using a virtual environment to work free from version conflicts.")
 ```bash
 python -m venv .envName
