@@ -50,7 +50,7 @@ VScode specific documentation:
 python -m venv .envName
 ```
 
-### Installation
+### No installation required
 
 This project consists mainly of documentations, no prior installation is necessary.
 
