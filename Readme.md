@@ -47,7 +47,7 @@ python3 -m venv /path/to/new/virtual/environment
 VScode specific documentation:
     - [VScode venv docs](https://code.visualstudio.com/docs/python/environments "Documentation for creating and using a virtual environment to work free from version conflicts.")
 ```bash
-python -m venv .venv
+python -m venv .envName
 ```
 
 ### Installation
